@@ -73,7 +73,7 @@ def read_button(update, context):
         button = ReplyKeyboardMarkup([['Назад']], resize_keyboard=True)
         context.bot.send_message(
         chat_id=chat.id,
-        text='https://github.com/mnk96/practikum_kids_ai',
+        text='https://github.com/mnk96/practicum_kids_ai',
         reply_markup=button  
         )
     else:
