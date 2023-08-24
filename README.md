@@ -39,3 +39,7 @@ source venv/Scripts/activate
 ```
 pip install -r requirements.txt
 ```
+
+Создать папу image и добавить туда свои фотографии(1.jpg, 2.jpg).
+
+Создать папку voice 
